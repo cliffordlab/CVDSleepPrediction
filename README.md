@@ -6,7 +6,7 @@ This repository contains a simple example that illustrates how to format an inpu
 
 ## How do I run these scripts?
 
-First, you can download [example data](https://github.com/physionetchallenges/python-example-2026?tab=readme-ov-file#how-do-i-create-data-for-these-scripts) and put them in data folder in the main directory of this github repo called 'data_example'. 
+First, you can download [example data]([https://github.com/physionetchallenges/python-example-2026?tab=readme-ov-file#how-do-i-create-data-for-these-scripts](https://drive.google.com/drive/folders/1D8F9Z1QtKTUTeZbL1XDF9w1CjJOv4gGj?usp=share_link)) and put them in data folder in the main directory of this github repo called 'data_example'. 
 
 Second, you can install the dependencies for these scripts by running
 
