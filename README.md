@@ -17,7 +17,7 @@ Next, you can run
     run_inference.ipynb
 
 
-which loads example_data and calls function **model_pipepline** from **model_pipeline.py** which
+which loads example_data and calls function [model_pipeline](https://github.com/zkoscov/CVDSleepPrediction/blob/9011c17e6e9ba9a6ab09bd9942f5dc4d95e267de/model_pipeline.py#L56) from **model_pipeline.py** which
 
  Run the ECG model inference pipeline on a single recording.
     
