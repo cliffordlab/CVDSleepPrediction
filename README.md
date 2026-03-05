@@ -11,9 +11,13 @@ First, you can download [example data](https://github.com/physionetchallenges/py
 Second, you can install the dependencies for these scripts by running
 
     pip install -r requirements.txt
+    
+Next, you can run 
+
+    run_inference.ipynb
 
 
-which calls function **model_pipepline** from **model_pipeline.py** which
+which loads example_data and calls function **model_pipepline** from **model_pipeline.py** which
 
  Run the ECG model inference pipeline on a single recording.
     
