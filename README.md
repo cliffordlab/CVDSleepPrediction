@@ -46,3 +46,8 @@ which calls function **model_pipepline** from **model_pipeline.py** which
             - HF (heart failure)
             - DEATH
 
+## Citation
+The paper describing the code and data is included in the Documents folder and is currently under review in SLEEP. 
+
+## The data used for algorithm development and testing are from The Human Sleep Project:
+ Sun, H., Ganglberger, W., Nasiri, S., Gupta, A., Ghanta, M., Moura Junior, V., Cash, S., Stone, K., Zhang, Z., Ganjoo, G., Nassi, T. E., Wei, R., Meulenbrugge, E., Au, R., Clifford, G., Trotti, L. M., Hwang, D., Mignot, E., Katwa, U., & Westover, M. B. (2023). The Human Sleep Project (version 2.0). Brain Data Science Platform. https://doi.org/10.60508/qjbv-hg78.
