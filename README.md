@@ -50,8 +50,11 @@ which loads example_data and calls function [model_pipeline](https://github.com/
             - HF (heart failure)
             - DEATH
 
-## Citation
-The paper describing the code and data is included in the Documents folder and is currently under review in SLEEP. 
+# Citation
+## When using this resource please cite the paper describing the code and data:
 
-## The data used for algorithm development and testing are from The Human Sleep Project
- Sun, H., Ganglberger, W., Nasiri, S., Gupta, A., Ghanta, M., Moura Junior, V., Cash, S., Stone, K., Zhang, Z., Ganjoo, G., Nassi, T. E., Wei, R., Meulenbrugge, E., Au, R., Clifford, G., Trotti, L. M., Hwang, D., Mignot, E., Katwa, U., & Westover, M. B. (2023). The Human Sleep Project (version 2.0). Brain Data Science Platform. https://doi.org/10.60508/qjbv-hg78.
+Zuzana Koscova, Samaneh Nasiri, Matthew A Reyna, Neal K Bhatia, Ali Bahrami Rad, Reza Sameni, Haoqi Sun, Niels Turley, Umakanth Katwa, Dennis Hwang, Katie L Stone, Lynn M Trotti, Robert J Thomas, Emmanuel Mignot, Brandon M Westover, Gari D Clifford, Prediction of cardiovascular outcomes using electrocardiography from overnight polysomnography, Sleep, 2026;, zsag229, https://doi.org/10.1093/sleep/zsag229
+
+## The data used for algorithm development and testing are from The Human Sleep Project:
+
+Qichen Li, Shenghan Wen, Haoqi Sun, Wolfgang Ganglberger, Ayush Tripathi, Niels Turley, Samuel Waters, Arnav Gupta, Aditya Gupta, Manohar Ghanta, Bruce Nearing, Han Wu, Katie Stone, Chad Robichaux, Zhiyong Zhang, Qiao Li, Gauri Ganjoo, Christine Tsien Silvers, Bharath Gunapati, Kiran Maski, Samaneh Nasiri, Dennis Hwang, Lynn Marie Trotti, Umakanth Katwa, Gari Clifford, Emmanuel Mignot, Robert J Thomas, Michael Brandon Westover, The human sleep project: a multi-center clinical polysomnography dataset across the human lifespan, Sleep, 2026;, zsag215, https://doi.org/10.1093/sleep/zsag215
